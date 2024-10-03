@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack and Next.js developer from India, with experience in AI/ML.</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl" width="700"/>
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl" width="500"/>
 </p>
 
 <p align="center">
