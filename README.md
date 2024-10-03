@@ -23,8 +23,6 @@
 
 ---
 
-### 🔭 I’m currently working on [E-commerce](https://github.com/nandiniiiiiiii/E-commerce)
-
 ### 🌱 I’m currently learning **Web3 related stuff**
 
 ### 📫 How to reach me **nandininegi290604@gmail.com**
