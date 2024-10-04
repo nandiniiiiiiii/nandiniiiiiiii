@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandini Negi</h1>
-<h3 align="center">A passionate MERN stack and Next.js developer from India, with experience in AI/ML.</h3>
+<h3 align="center">Innovative MERN & Next.js developer from India, blending full-stack expertise with AI/ML to create intelligent, scalable solutions.</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl" width="500"/>
